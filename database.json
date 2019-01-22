@@ -1,0 +1,39 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "0011110906724"
+    },
+    {
+      "id": 3,
+      "name": "Pad Thai",
+      "category": "Nodles",
+      "ethnicity": "Thai",
+      "barcode": "00320146"
+    },
+    {
+      "name": "Alfredo",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "id": 4,
+      "barcode": "0020662005113  "
+    },
+    {
+      "name": "Fried Pickles",
+      "category": "Appetiser",
+      "ethnicity": "American",
+      "id": 5,
+      "barcode": "20033347"
+    },
+    {
+      "name": "Pancakes",
+      "category": "Breakfast",
+      "ethnicity": "American",
+      "id": 6,
+      "barcode": "0041449003153 "
+    }
+  ]
+}
